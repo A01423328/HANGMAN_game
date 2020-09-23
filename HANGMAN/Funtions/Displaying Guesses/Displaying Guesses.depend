@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532726005 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\funtions\displaying guesses\main.cpp
+	<iostream>
+	<fstream>
+

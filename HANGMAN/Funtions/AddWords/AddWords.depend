@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532721425 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\addwords\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

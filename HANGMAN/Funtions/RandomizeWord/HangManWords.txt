@@ -1,0 +1,21 @@
+Possible 20 words in HangManGame.
+moon.
+donna.
+tardis.
+the_doctor.
+computer.
+guitar.
+globe.
+tissue.
+coaster.
+painting.
+sherlock.
+log.
+towel.
+tv.
+bedroom.
+flashlight.
+sonic_screwdriver.
+amy_pond.
+science.
+tuna.

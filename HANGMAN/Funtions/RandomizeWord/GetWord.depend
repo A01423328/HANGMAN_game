@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532636267 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\randomizeword\main.cpp
+	<iostream>
+	<fstream>
+
+1532636670 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\funtions\randomizeword\main.cpp
+	<iostream>
+	<fstream>
+

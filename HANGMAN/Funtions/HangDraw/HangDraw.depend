@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532460768 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\veranocrene\hangdraw\main.cpp
+	<iostream>
+
+1532460768 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\hangdraw\main.cpp
+	<iostream>
+
+1532644052 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\funtions\hangdraw\main.cpp
+	<iostream>
+

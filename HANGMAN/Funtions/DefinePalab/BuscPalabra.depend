@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1532465029 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\definepalab\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1532563672 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\definepalab\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1532722524 source:c:\users\aldoc\onedrive\documents\cprograma\c++ itesm\hangman\funtions\definepalab\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
